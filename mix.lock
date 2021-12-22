@@ -1,0 +1,3 @@
+%{
+  "worker_pool": {:hex, :worker_pool, "5.1.0", "61ba970f856af8b2d85232adc8e4b990fa1719f396fcdad954702946395add80", [:rebar3], [], "hexpm", "59a975728e5c2b69a23d1c5ebc3b63251ec4acbf4e9d25f1c619e3ad4b550813"},
+}
